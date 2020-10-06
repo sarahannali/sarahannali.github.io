@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sarahannali/sarahannali.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sarahannali/sarahannali.github.io/static/js/main.78cb1966.chunk.js",
+    "main.js.map": "/sarahannali/sarahannali.github.io/static/js/main.78cb1966.chunk.js.map",
+    "runtime-main.js": "/sarahannali/sarahannali.github.io/static/js/runtime-main.04d3c61b.js",
+    "runtime-main.js.map": "/sarahannali/sarahannali.github.io/static/js/runtime-main.04d3c61b.js.map",
+    "static/js/2.2870a00a.chunk.js": "/sarahannali/sarahannali.github.io/static/js/2.2870a00a.chunk.js",
+    "static/js/2.2870a00a.chunk.js.map": "/sarahannali/sarahannali.github.io/static/js/2.2870a00a.chunk.js.map",
+    "index.html": "/sarahannali/sarahannali.github.io/index.html",
+    "precache-manifest.2120d582c58694923649f7863aed7efa.js": "/sarahannali/sarahannali.github.io/precache-manifest.2120d582c58694923649f7863aed7efa.js",
+    "service-worker.js": "/sarahannali/sarahannali.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sarahannali/sarahannali.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2870a00a.chunk.js.LICENSE.txt": "/sarahannali/sarahannali.github.io/static/js/2.2870a00a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sarahannali/sarahannali.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04d3c61b.js",
+    "static/js/2.2870a00a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.78cb1966.chunk.js"
+  ]
+}
